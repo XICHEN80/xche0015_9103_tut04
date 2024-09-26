@@ -3,8 +3,8 @@
 ## part1：Imaging technology Inspiration
 
 1.
-![An image of Inspiration1](readimage/image2.png)
-![An image of Inspiration2](readimage/image3.png)
+![An image of Inspiration1](image/Inspiration1.jpg)
+![An image of Inspiration2](image/Inspiration2.jpg)
 
 2.The work I chose is craystal world on teamlab. This artwork uses the artistic technique of pointillism, presenting a crystal world composed of a collection of light points, and constantly produces random changes. The different changes of light points at every moment create artistic pictures. This dynamic and layered artwork inspired my creative inspiration. I hope to use p5.js to create similar artworks, presenting a flowing, orderly and random artwork through the changes of different points or lines.
 
@@ -15,14 +15,14 @@
 
 
 1.
-![An image of Inspiration1](readimage/image2.png)
-![An image of Inspiration2](readimage/image3.png)
+![An image of Inspiration1](image/3.jpg)
+![An image of Inspiration2](image/4.jpg)
 
 2.
 In order to create a similar dot matrix effect, we use a noise function in p5.js to simulate the random change of flash points, and use the circle function to create the effect of small flash points. By adjusting the gapSlider to control the distance between the dots, we can achieve a partially distant and partially dense presentation effect. By changing the offset, we can control the spacing and movement of the dots. Through these techniques, we can achieve the artistic effect of the reference image.
 
 3.
-[Inspiration Link] (https://p5js.org/examples/repetition-noise/)
+[Inspiration Link](https://p5js.org/examples/repetition-noise/)
 
 4.
 // Noise tends to look smoother with coordinates that are very close together
